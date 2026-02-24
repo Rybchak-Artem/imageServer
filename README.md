@@ -9,5 +9,7 @@ To run the code you need to
 4: Using the URL, change the specified size to the one you need.
 
 127.0.0.1:3000 - server
+
 /img/100/100 - picture 
+
 The first number is the width, then the height.
